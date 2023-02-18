@@ -24,7 +24,7 @@ La aplicación tiene una combinación de azul y blanco. Se pueden ver las pantal
    
    Una vez ingrese a sucuenta, el usuario podrá seleccionar el tipo de transacción que va a registrar, ingresar un concepto asociado y un valor.
    
-   ![Registro de transaccion](images/Registro de transaccion.PNG)
+   ![Registro de transaccion](images/Registro_transaccion.PNG)
    
 5. Busqueda de transacción
    
@@ -36,4 +36,4 @@ La aplicación tiene una combinación de azul y blanco. Se pueden ver las pantal
    
    Una vez seleccionado el tipo de transacción y una fecha, el usuario verá una tabla de las transacciones junto con una gráfica de las mismas.
    
-   ![Visualización de transaccion](images/Visualizacion de transaccion.PNG)
+   ![Visualización de transaccion](images/Visualizacion_transaccion.PNG)
