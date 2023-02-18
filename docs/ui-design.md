@@ -36,4 +36,4 @@ La aplicación tiene una combinación de azul y blanco. Se pueden ver las pantal
    
    Una vez seleccionado el tipo de transacción y una fecha, el usuario verá una tabla de las transacciones junto con una gráfica de las mismas.
    
-   ![Visualización de transaccion](images/Registro de transaccion.PNG)
+   ![Visualización de transaccion](images/Visualización de transaccion.PNG)
